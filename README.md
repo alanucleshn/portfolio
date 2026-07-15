@@ -21,3 +21,6 @@ Welcome to my cybersecurity project repository. As a Cybersecurity Engineer with
 ## Contact
 - **LinkedIn:** [linkedin.com/in/alanucles](https://linkedin.com/in/alanucles)
 - **GitHub:** [github.com/alanucleshn](https://github.com/alanucleshn)
+
+## ADD  
+- Open to remote opportunities in Cybersecurity Engineering
