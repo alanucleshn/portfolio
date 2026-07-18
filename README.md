@@ -11,7 +11,7 @@ Welcome to my cybersecurity project repository. As a Cybersecurity Engineer with
 | [Password Security Analyzer](https://github.com/alanucleshn/password-security-analyzer) | Identity Security | Completed |
 | [File Integrity Monitor](https://github.com/alanucleshn/file-integrity-monitor) | Defensive Security | Completed |
 | [Port Scanner](https://github.com/alanucleshn/port-scanner) | Network Security | Completed |
-| [Port Scanner](https://github.com/alanucleshn/log-analyzer) | Network Security | In Progress |
+| [Log Analyzer](https://github.com/alanucleshn/log-analyzer) | System Security | In Progress |
 | *Others to be added* | - | Pending |
 
 ## Skills
